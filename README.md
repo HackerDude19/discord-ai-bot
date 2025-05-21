@@ -6,5 +6,5 @@ This Discord bot was designed for the Japanese pop idol [Hatsune Miku](https://e
 This is crucial for the next step.
 2. Clone the Repository
 Navigate to the folder you want to store the bot and run the following command:
-> git clone https://github.com/HackerDude19/discord-ai-bot/
+`git clone https://github.com/HackerDude19/discord-ai-bot/`
 

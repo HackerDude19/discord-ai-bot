@@ -5,3 +5,4 @@ yarn-error.log*
 *.log
 Thumbs.db
 memory.db
+package-lock.json
